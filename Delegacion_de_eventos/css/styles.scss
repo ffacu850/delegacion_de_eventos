@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background: rgb(212, 212, 212);
+}
+.button{
+    padding: 15px 70px;
+    font-size: 20px;
+    border-style: none;
+    border-radius: 7px;
+    color: red;
+}
+
+
+.newclass{
+    background: yellow;
+    color: #fff;
+    transform: scale(3);
+    transition: 0.4s;
+}

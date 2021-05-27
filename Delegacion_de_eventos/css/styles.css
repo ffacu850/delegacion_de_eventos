@@ -1,0 +1,31 @@
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 90vh;
+  background: #d4d4d4;
+}
+
+.button {
+  padding: 15px 70px;
+  font-size: 20px;
+  border-style: none;
+  border-radius: 7px;
+  color: red;
+}
+
+.newclass {
+  background: yellow;
+  color: #fff;
+  -webkit-transform: scale(3);
+          transform: scale(3);
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+/*# sourceMappingURL=styles.css.map */
